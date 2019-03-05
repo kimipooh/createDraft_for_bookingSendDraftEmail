@@ -1,0 +1,2 @@
+# createDraft_for_bookingSendDraftEmail
+https://github.com/kimipooh/bookingSendDraftMail 用のGmail下書きをGoogleフォームを使って作るためのGoogle Apps Script. 実際にはGoogleスプレットシートで利用します。
